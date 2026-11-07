@@ -4,7 +4,7 @@
 
 The simulated ocean monitoring system consists of five autonomous monitoring buoys deployed along the Equator in the Pacific Ocean. Each buoy is equipped with sensors to measure six oceanographic and meteorological parameters.
 
-The system monitors normal ocean conditions, collecting measurements every **1 minute**. The selected parameters provide information about ocean temperature, salinity, circulation, wind, and wave conditions.
+The system monitors normal ocean conditions using accelerated time simulation, generating synthetic measurements every **1 minute**, where one real minute represents one simulated hour. The selected parameters provide information about ocean temperature, salinity, circulation, wind, and wave conditions.
 
 ## Sensor Configuration
 
